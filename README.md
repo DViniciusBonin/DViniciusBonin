@@ -3,7 +3,7 @@
  
 <p> Tenho 19 anos e sou desenvolvedor <strong>Back-end Jr</strong>, 
   atualmente trabalho com Laravel.
-  Estou cursando Tecnlogia em Sistemas para Internet na UTFPR
+  Estou cursando Tecnologia em Sistemas para Internet na UTFPR
 </p>
 
 <p align="left">
