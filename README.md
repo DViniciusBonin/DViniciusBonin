@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá meu nome Douglas Vinicius, tenho 19 anos e sou desenvolvedor Back-end jr.
+Atualmente trabalho com o Laravel.
+
+Algumas tecnologias que estou estudando:
+
+
 
 <!--
 **DViniciusBonin/DViniciusBonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
