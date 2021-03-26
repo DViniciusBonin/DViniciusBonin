@@ -1,5 +1,4 @@
 
-  <img src="https://github.com/DViniciusBonin/DViniciusBonin/blob/main/Untitled-removebg-preview.png" min-width="100px" max-width="350px" width="300px" align="right" alt="logo" bgcolor="red">
  
 <p> Tenho 19 anos e sou desenvolvedor <strong>Back-end Jr</strong>, 
   atualmente trabalho com Laravel.
