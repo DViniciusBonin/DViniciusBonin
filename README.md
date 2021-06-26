@@ -1,17 +1,15 @@
 
  
 <p> Tenho 19 anos e sou desenvolvedor <strong>Back-end Jr</strong>, 
-  atualmente trabalho com Laravel.
+  atualmente trabalho com Node.js 
   Estou cursando Tecnologia em Sistemas para Internet na UTFPR
 </p>
 
 <p align="left">
-  Conhecimentos: <strong>HTML, CSS, JavaScript, Bootstrap, Bulma, PHP e Laravel </strong>
+  Conhecimentos: <strong>HTML, CSS, JavaScript, Bootstrap, Bulma, PHP, Laravel, Node.js, Express </strong>
 </p>
 
   <strong align="left"> Tecnlogias que estou estudando: </strong>
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 
