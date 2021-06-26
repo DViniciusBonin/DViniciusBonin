@@ -10,6 +10,7 @@
 </p>
 
   <strong align="left"> Tecnlogias que estou estudando: </strong>
+  <br>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 
